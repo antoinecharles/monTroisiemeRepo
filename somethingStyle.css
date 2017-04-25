@@ -1,0 +1,12 @@
+h2{
+	color: #444;
+	font-family: arial;
+	font-weight: bold;
+}
+button{
+	background: #afafaf;
+	border: none;
+	padding: 5px 10px;;
+	border-radius: 2px;
+	cursor: pointer;
+}
